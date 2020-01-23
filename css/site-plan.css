@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
 
 :root {
-    --primary-color: #396E94;
-    --secondary-color: #E7C24F;
-    --accent1-color: #A43312;
+    --primary-color: #2E86AB;
+    --secondary-color: #E8E9EB;
+    --accent1-color: #FF6F59;
     --accent2-color: white;
     --heading-font: "IM Fell French Canon SC";
     --paragraph-font: Lato, Helvetica, sans-serif
@@ -107,5 +107,5 @@ nav a:visited {
 
 nav a:hover {
     color: ;
-    background-color:
+    background-color: slategrey
 }
