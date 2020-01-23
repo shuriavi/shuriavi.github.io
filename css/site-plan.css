@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+French+Canon+SC|Lato');
+@import url('https://fonts.googleapis.com/css?family=Alata|Open+Sans&display=swap" rel="stylesheet"');
 
 :root {
     --primary-color: #2E86AB;
     --secondary-color: #E8E9EB;
     --accent1-color: #FF6F59;
     --accent2-color: white;
-    --heading-font: "IM Fell French Canon SC";
-    --paragraph-font: Lato, Helvetica, sans-serif
+    --heading-font: "Alata";
+    --paragraph-font: Open Sans
 }
 
 html {
