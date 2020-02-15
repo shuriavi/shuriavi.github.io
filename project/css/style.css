@@ -18,6 +18,10 @@ main p {
     color: black;
 }
 
+main{
+    align-content: center;
+}
+
 header {
     background-color: #fff;
     padding: 5px 0;
